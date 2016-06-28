@@ -1,0 +1,6 @@
+{
+  "name": "oxm-banner",
+  "version": "1.0.0",
+  "apiDependencies": ["banner"]
+}
+
