@@ -1,6 +1,6 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-    <xsl:template match="/root" name="oxm-banner">
+    <xsl:template match="/root" name="wurui.oxm-banner">
     <!-- className 'J_OXMod' required  -->
     <div class="J_OXMod oxmod-oxm-banner" ox-mod="oxm-banner">
         <xsl:if test="count(data/banner/i) &gt; 0">
