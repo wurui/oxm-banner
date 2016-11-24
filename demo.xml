@@ -7,16 +7,16 @@
     <data>
         <banner>
             <i>
-                <img>//static.openxsl.com/img/fox.jpg</img>
-                <href>//static.openxsl.com/img/fox.jpg</href>
+                <img>http://static.openxsl.com/img/fox.jpg</img>
+                <href>http://static.openxsl.com/img/fox.jpg</href>
             </i>
             <i>
-                <img>//static.openxsl.com/img/fox.jpg</img>
-                <href>//static.openxsl.com/img/fox.jpg</href>
+                <img>http://static.openxsl.com/img/fox.jpg</img>
+                <href>http://static.openxsl.com/img/fox.jpg</href>
             </i>
             <i>
-                <img>//static.openxsl.com/img/fox.jpg</img>
-                <href>//static.openxsl.com/img/fox.jpg</href>
+                <img>http://static.openxsl.com/img/fox.jpg</img>
+                <href>http://static.openxsl.com/img/fox.jpg</href>
             </i>
         </banner>
     </data>
